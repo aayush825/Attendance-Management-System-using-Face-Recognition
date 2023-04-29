@@ -31,3 +31,5 @@ Mark the Attendance according to the time gap between the entry and exit phase, 
 - You can view the attendance by clicking View Attendance button. It will show record in the csv file.
 - And accordindly the csv files will be generated of specific dates.
 # Screenshots
+
+#Simple UI
