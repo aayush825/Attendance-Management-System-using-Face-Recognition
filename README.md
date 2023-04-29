@@ -33,5 +33,13 @@ Mark the Attendance according to the time gap between the entry and exit phase, 
 # Screenshots
 
 # Simple UI
-![Uploading 170862376-a92b5f76-21bb-47ca-812e-0ea4599b595d.png…]()
+![170862376-a92b5f76-21bb-47ca-812e-0ea4599b595d](https://user-images.githubusercontent.com/67095509/235318661-93444efb-78d8-4e25-b8fc-c80ce23029c9.png)
+
+# While Taking Image
+
+# While making Entry/Exit
+
+# Marking Attendance
+
+# Timings of Entry and Exit
 
