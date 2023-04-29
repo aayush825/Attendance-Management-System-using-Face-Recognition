@@ -11,7 +11,7 @@ Recognize and manipulate faces from Python or the command line with the world's 
 Mark the Attendance according to the time gap between the entry and exit phase, using face recognition features that are updated in the database.
 
 # What steps do you have to follow??
-*Download or clone my Repository to your device.
+- Download or clone my Repository to your device.
 *type pip installs -r requirements.txt in command prompt(this will install the required package for the project).
 *Create a Training_Images folder in a project folder.
 *open main.py change all the paths according to your system.
