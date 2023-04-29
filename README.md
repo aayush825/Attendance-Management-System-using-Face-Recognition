@@ -32,4 +32,6 @@ Mark the Attendance according to the time gap between the entry and exit phase, 
 - And accordindly the csv files will be generated of specific dates.
 # Screenshots
 
-#Simple UI
+# Simple UI
+![Uploading 170862376-a92b5f76-21bb-47ca-812e-0ea4599b595d.png…]()
+
